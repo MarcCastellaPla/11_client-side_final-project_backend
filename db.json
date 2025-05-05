@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Study json-server",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "Complete the client-side project",
+      "completed": true
+    },
+    {
+      "id": "3",
+      "title": "Read study in scarlet",
+      "completed": true
+    }
+  ]
+}

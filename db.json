@@ -1,19 +1,19 @@
 {
-  "tasks": [
+  "characters": [
     {
       "id": "1",
-      "title": "Study json-server",
-      "completed": false
+      "name": "Ironman",
+      "powers": "Fly, shoot lasers"
     },
     {
       "id": "2",
-      "title": "Complete the client-side project",
-      "completed": true
+      "name": "Hulk",
+      "powers": "Smash, jump"
     },
     {
       "id": "3",
-      "title": "Read study in scarlet",
-      "completed": true
+      "name": "Thor",
+      "powers": "Fly, control lightning"
     }
   ]
 }

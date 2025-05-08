@@ -1,19 +1,11 @@
 {
-  "characters": [
+  "books": [
     {
-      "id": "1",
-      "name": "Ironman",
-      "powers": "Fly, shoot lasers"
-    },
-    {
-      "id": "2",
-      "name": "Hulk",
-      "powers": "Smash, jump"
-    },
-    {
-      "id": "3",
-      "name": "Thor",
-      "powers": "Fly, control lightning"
+      "id": 1,
+      "title": "A study in scarlet",
+      "author": "Arthur Conan Doyle",
+      "year": 1887,
+      "status": "pending"
     }
   ]
 }

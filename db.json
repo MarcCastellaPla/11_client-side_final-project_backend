@@ -6,6 +6,20 @@
       "author": "Arthur Conan Doyle",
       "year": 1887,
       "status": "pending"
+    },
+    {
+      "id": 2,
+      "title": "The Hound of the Baskervilles",
+      "author": "Arthur Conan Doyle",
+      "year": 1902,
+      "status": "read"
+    },
+    {
+      "id": 3,
+      "title": "The Adventures of Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "year": 1892,
+      "status": "pending"
     }
   ]
 }
